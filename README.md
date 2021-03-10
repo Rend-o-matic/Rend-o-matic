@@ -3,7 +3,7 @@
 [![Slack](https://img.shields.io/badge/Join-Slack-blue)](https://callforcode.org/slack)
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) 
 
-<img src="/img/rend-o-matic-logo.svg" alt="Rend-o-matic logo" width="400px"/>
+<img src="/img/rend-o-matic-logo.png" alt="Rend-o-matic logo" width="400px"/>
 
 A musical collaboration project for disconnected performers.
 
