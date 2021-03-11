@@ -1,7 +1,6 @@
 # Rend-o-matic
 
-[![Slack](https://img.shields.io/badge/Join-Slack-blue)](https://callforcode.org/slack)
-[![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Slack](https://img.shields.io/badge/Join-Slack-blue)](https://callforcode.org/slack)
 
 <img src="/img/rend-o-matic-logo.png" alt="Rend-o-matic logo" width="400px"/>
 
@@ -19,7 +18,7 @@ Choirless aims to make it very easy for choir leaders to create songs made out o
 ***Rend-o-matic*** is a [Call for Code® with The Linux Foundation](https://www.linuxfoundation.org/projects/call-for-code/) project that features a set of core Choirless platform components.
 
 ## Getting Started
-Start by reading this [Rend-o-matic overview](http://rend-o-matic.github.io) which describes the architecture and projects.
+Start by reading this [Rend-o-matic overview](http://rend-o-matic.github.io) which describes the architecture and projects. We are in the process of updating the documentation for deploying the rendering capabilities locally or on IBM Cloud Functions.
 
 You are also welcome to join our [Slack](https://callforcode.org/slack) in the #rend-o-matic channel for getting to know the community and discussing issues in real-time, including the creation of a network for your region.
 
