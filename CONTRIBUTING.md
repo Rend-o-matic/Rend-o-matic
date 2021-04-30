@@ -7,6 +7,8 @@ Rend-o-matic is an open source project and we are always happy to receive contri
 * Submitting bug reports and feature requests
 * Forking this repository and submitting a pull request
 
+Please read our founding [Technical Charter](Rend-o-matic-Technical-Charter.pdf) to learn more about project governance.
+
 ## Technical Steering Committee (TSC)
 The TSC will be responsible for all technical oversight of the Rend-o-matic project. Participation in the Project through becoming a Contributor and Committer is open to anyone.
 
